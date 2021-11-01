@@ -1,0 +1,18 @@
+= Give Kotlin the Boot? Pros & cons of using Kotlin vs. Java with Spring Boot
+
+Parent repository to accompany session of the same name
+
+== Component repos
+
+* link:https://github.com/mkheck/boot-java[Java version of application]
+* link:https://github.com/mkheck/boot-kotlin[Kotlin version of application]
+
+== Accompanying slides
+
+* link:https://speakerdeck.com/mkheck/give-kotlin-the-boot-pros-and-cons-of-using-kotlin-vs-java-with-spring-boot[Give Kotlin the Boot]
+
+== Contact information
+
+* Mark Heckler
+* link:https://twitter.com/mkheck[@mkheck]
+* link:mailto:mark.heckler@gmail.com[mark.heckler@gmail.com]
