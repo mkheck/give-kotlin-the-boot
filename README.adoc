@@ -4,8 +4,8 @@ Parent repository to accompany session of the same name
 
 == Component repos
 
-* link:https://github.com/mkheck/boot-java[Java version of application]
-* link:https://github.com/mkheck/boot-kotlin[Kotlin version of application]
+* link:https://github.com/mkheck/gktb-kotlin[Java version of application]
+* link:https://github.com/mkheck/gktb-kotlin[Kotlin version of application]
 
 == Accompanying slides
 
